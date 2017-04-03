@@ -114,7 +114,7 @@
 			  <!--include name="tests/LoginTest.class" />
 			 <include name="tests/Parameterized_Test.class" />
 			 <include name="tests/TestApplication.class" /-->
-			  <include name="tests/MySuiteRunner.class" />
+			  <include name="tests/MyfirstTest.class" />
 
 
 			        
