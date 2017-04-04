@@ -100,9 +100,7 @@
 	  
 	
 	<target name="run" >  
-		<delete includeemptydirs="true" quiet="true">
-		            <fileset dir="${test.reportsDir}" includes="**/*"/>
-				</delete>
+		
 			    <java jar="/Users/rahultiwari/Documents/jars" fork="true" spawn="true" />  
 			    <junit fork="yes" haltonfailure="no" printsummary="yes">
 				    <classpath refid="testcase.path" />  
