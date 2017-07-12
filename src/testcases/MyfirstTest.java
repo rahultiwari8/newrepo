@@ -7,7 +7,7 @@ public class MyfirstTest {
 	@Test //Test Case
 	public void xyztest()
 	{
-		System.out.println("Test in progress");
+		System.out.println("Test is in progress");
 	}
 	
 	@Test
